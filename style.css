@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+    color: #2e1263;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+}
+
+.h1 {
+font-weight: 200;
+font-size: 70px;
+text-transform: uppercase;
+border-top: 5px solid;
+
+}
+
+.img {
+    height: 300px;
+    border-radius: 50%;
+
+}
+
